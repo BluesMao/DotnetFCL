@@ -1,0 +1,5 @@
+D:\CSharp\MSDN\System.Collections\ComparerExample\ComparerExample\bin\Debug\ComparerExample.exe.config
+D:\CSharp\MSDN\System.Collections\ComparerExample\ComparerExample\bin\Debug\ComparerExample.exe
+D:\CSharp\MSDN\System.Collections\ComparerExample\ComparerExample\bin\Debug\ComparerExample.pdb
+D:\CSharp\MSDN\System.Collections\ComparerExample\ComparerExample\obj\Debug\ComparerExample.exe
+D:\CSharp\MSDN\System.Collections\ComparerExample\ComparerExample\obj\Debug\ComparerExample.pdb

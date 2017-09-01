@@ -1,0 +1,6 @@
+D:\CSharp\MSDN\System\IObservableExample\IObservableExample\bin\Debug\IObservableExample.exe.config
+D:\CSharp\MSDN\System\IObservableExample\IObservableExample\obj\Debug\IObservableExample.csprojResolveAssemblyReference.cache
+D:\CSharp\MSDN\System\IObservableExample\IObservableExample\bin\Debug\IObservableExample.exe
+D:\CSharp\MSDN\System\IObservableExample\IObservableExample\bin\Debug\IObservableExample.pdb
+D:\CSharp\MSDN\System\IObservableExample\IObservableExample\obj\Debug\IObservableExample.exe
+D:\CSharp\MSDN\System\IObservableExample\IObservableExample\obj\Debug\IObservableExample.pdb

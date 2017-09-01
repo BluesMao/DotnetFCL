@@ -1,0 +1,6 @@
+D:\CSharp\MSDN\System.Collections\CollectionBaseExample\CollectionBaseExample\bin\Debug\CollectionBaseExample.exe.config
+D:\CSharp\MSDN\System.Collections\CollectionBaseExample\CollectionBaseExample\bin\Debug\CollectionBaseExample.exe
+D:\CSharp\MSDN\System.Collections\CollectionBaseExample\CollectionBaseExample\bin\Debug\CollectionBaseExample.pdb
+D:\CSharp\MSDN\System.Collections\CollectionBaseExample\CollectionBaseExample\obj\Debug\CollectionBaseExample.csprojResolveAssemblyReference.cache
+D:\CSharp\MSDN\System.Collections\CollectionBaseExample\CollectionBaseExample\obj\Debug\CollectionBaseExample.exe
+D:\CSharp\MSDN\System.Collections\CollectionBaseExample\CollectionBaseExample\obj\Debug\CollectionBaseExample.pdb

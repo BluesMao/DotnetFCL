@@ -1,0 +1,1 @@
+D:\CSharp\MSDN\System.Collections\IListExample\IListExample\bin\Debug\IListExample.exe.config

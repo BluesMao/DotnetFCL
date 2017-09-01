@@ -1,0 +1,6 @@
+D:\CSharp\MSDN\System.Collections\IEnumerableExample\IEnumerableExample\bin\Debug\IEnumerableExample.exe.config
+D:\CSharp\MSDN\System.Collections\IEnumerableExample\IEnumerableExample\bin\Debug\IEnumerableExample.exe
+D:\CSharp\MSDN\System.Collections\IEnumerableExample\IEnumerableExample\bin\Debug\IEnumerableExample.pdb
+D:\CSharp\MSDN\System.Collections\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.csprojResolveAssemblyReference.cache
+D:\CSharp\MSDN\System.Collections\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.exe
+D:\CSharp\MSDN\System.Collections\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.pdb

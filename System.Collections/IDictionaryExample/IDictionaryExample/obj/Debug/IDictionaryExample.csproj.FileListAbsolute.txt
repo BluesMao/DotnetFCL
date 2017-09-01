@@ -1,0 +1,1 @@
+D:\CSharp\MSDN\System.Collections\IDictionaryExample\IDictionaryExample\bin\Debug\IDictionaryExample.exe.config

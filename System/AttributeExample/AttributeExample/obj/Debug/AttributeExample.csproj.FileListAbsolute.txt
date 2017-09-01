@@ -1,0 +1,6 @@
+D:\CSharp\MSDN\System\AttributeExample\AttributeExample\bin\Debug\AttributeExample.exe.config
+D:\CSharp\MSDN\System\AttributeExample\AttributeExample\bin\Debug\AttributeExample.exe
+D:\CSharp\MSDN\System\AttributeExample\AttributeExample\bin\Debug\AttributeExample.pdb
+D:\CSharp\MSDN\System\AttributeExample\AttributeExample\obj\Debug\AttributeExample.csprojResolveAssemblyReference.cache
+D:\CSharp\MSDN\System\AttributeExample\AttributeExample\obj\Debug\AttributeExample.exe
+D:\CSharp\MSDN\System\AttributeExample\AttributeExample\obj\Debug\AttributeExample.pdb

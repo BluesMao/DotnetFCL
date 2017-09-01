@@ -1,0 +1,6 @@
+D:\CSharp\MSDN\System.Collections\IStructuralComparableExample\IStructuralComparableExample\bin\Debug\IStructuralComparableExample.exe.config
+D:\CSharp\MSDN\System.Collections\IStructuralComparableExample\IStructuralComparableExample\bin\Debug\IStructuralComparableExample.exe
+D:\CSharp\MSDN\System.Collections\IStructuralComparableExample\IStructuralComparableExample\bin\Debug\IStructuralComparableExample.pdb
+D:\CSharp\MSDN\System.Collections\IStructuralComparableExample\IStructuralComparableExample\obj\Debug\IStructuralComparableExample.csprojResolveAssemblyReference.cache
+D:\CSharp\MSDN\System.Collections\IStructuralComparableExample\IStructuralComparableExample\obj\Debug\IStructuralComparableExample.exe
+D:\CSharp\MSDN\System.Collections\IStructuralComparableExample\IStructuralComparableExample\obj\Debug\IStructuralComparableExample.pdb
