@@ -20,9 +20,7 @@ namespace AsyncCallbackExample
         {
             Console.WriteLine("{0} requests remaining.",requestCounter);
         }
-        
-        static void a(){}
-
+       
         static void Main(string[] args)
         {
             AsyncCallback callBack = new AsyncCallback(ProcessDnsInformation);
